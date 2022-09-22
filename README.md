@@ -16,7 +16,7 @@
 * Luis Enrique Cuesta Pinzón - [lecuesta@uninorte.edu.co](mailto:lecuesta@uninorte.edu.co)
 
 
-# GENERALIDADES DE PLATAFORMA DE GESTIÓN DE NOTAS UNIVERSIDAD CES
+## GENERALIDADES DE PLATAFORMA DE GESTIÓN DE NOTAS UNIVERSIDAD CES
 
 Universidad CES requiere un sistema para la gestión de las notas de los estudiantes matriculados en cada una de las asignaturas ofrecidas. Se espera que dicho sistema se desarrolle para gestionar un único semestre.
 
