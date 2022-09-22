@@ -18,6 +18,6 @@ DESARROLLADORES
 
 * Lina Paola Reina Cedeño - [lpreina@uninorte.edu.co](mailto:lpreina@uninorte.edu.co)
 
-* Alavaro Marin Ortiz - [alvaromarin@uninorte.edu.co](mailto:alvaromarin@uninorte.edu.co)
+* Alvaro Marin Ortiz - [alvaromarin@uninorte.edu.co](mailto:alvaromarin@uninorte.edu.co)
 
 * Luis Enrique Cuesta Pinzón - [lecuesta@uninorte.edu.co](mailto:lecuesta@uninorte.edu.co)
